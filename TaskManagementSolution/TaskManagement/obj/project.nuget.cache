@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BOmVuv/9oR/iOgkzXNS0t5LqFIsldBYjzI2XsowTXT7jTGNmR7S7y/5lfa95ptqvvKml5zlE91Yc43ep1zfVVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Desktop\\projekti\\C--Projekti\\TaskManagementSolution\\TaskManagement\\TaskManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

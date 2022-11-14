@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\bin\Debug\net5.0\TaskManagement.exe
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\bin\Debug\net5.0\TaskManagement.deps.json
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\bin\Debug\net5.0\TaskManagement.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\bin\Debug\net5.0\TaskManagement.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\bin\Debug\net5.0\TaskManagement.dll
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\bin\Debug\net5.0\ref\TaskManagement.dll
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\bin\Debug\net5.0\TaskManagement.pdb
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\obj\Debug\net5.0\TaskManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\obj\Debug\net5.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\obj\Debug\net5.0\TaskManagement.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\obj\Debug\net5.0\TaskManagement.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\obj\Debug\net5.0\TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\obj\Debug\net5.0\TaskManagement.dll
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\obj\Debug\net5.0\ref\TaskManagement.dll
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\obj\Debug\net5.0\TaskManagement.pdb
+C:\Users\Admin\OneDrive\Desktop\task\C--Projekti\TaskManagementSolution\TaskManagement\obj\Debug\net5.0\TaskManagement.genruntimeconfig.cache
